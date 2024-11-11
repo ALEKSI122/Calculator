@@ -9,7 +9,7 @@ import androidx.core.view.WindowInsetsCompat
 import com.example.calculator.databinding.ActivityMainBinding
 import net.objecthunter.exp4j.ExpressionBuilder
 import java.text.DecimalFormat
-// д л я новой ветки
+//для новой ветки
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
 
